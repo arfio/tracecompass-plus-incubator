@@ -1,0 +1,6 @@
+[submodule "tracecompass"]
+	path = tracecompass
+	url = https://github.com/arfio/tracecompass.git
+[submodule "tracecompass-incubator"]
+	path = tracecompass-incubator
+	url = https://github.com/arfio/tracecompass-incubator.git
