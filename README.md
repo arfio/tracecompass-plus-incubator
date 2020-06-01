@@ -12,7 +12,7 @@
 
 ```
 git clone --recursive https://github.com/arfio/tracecompass-plus-incubator.git
-cd tracecompass
+cd tracecompass-plus-incubator/tracecompass
 mvn clean install -DskipTests
 cd ../tracecompass-incubator
 mvn clean install -DskipTests
