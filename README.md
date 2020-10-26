@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-### Java 8
-`sudo apt-get install openjdk-8-jdk`
+### Java 11
+`sudo apt-get install openjdk-11-jdk`
 
 ### Maven
 `sudo apt-get install maven`
